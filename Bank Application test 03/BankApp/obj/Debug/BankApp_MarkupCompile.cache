@@ -1,0 +1,20 @@
+﻿BankApp
+
+
+winexe
+C#
+.cs
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\BankApp\obj\Debug\
+BankApp
+none
+false
+DEBUG;TRACE
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\BankApp\App.xaml
+13706089073
+
+17610879057
+151244435902
+AccountProfilePage.xaml;AccountManagementWindow.xaml;AccountSelectUserPage.xaml;AllUsers.xaml;CreateAccountPage.xaml;CreateNewUser.xaml;GetTransactionByID.xaml;ListOfTransaction.xaml;MainWindow.xaml;SelectUser.xaml;TranasactionManagemenetWindow.xaml;TransactionCreation.xaml;UserManagementWindow.xaml;
+
+False
+

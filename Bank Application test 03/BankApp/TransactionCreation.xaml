@@ -1,0 +1,25 @@
+﻿<Page x:Class="BankApp.TransactionCreation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BankApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TransactionCreation">
+
+    <Grid Background="#FF5FC3CD">
+        <Label Content="Create Transaction" HorizontalAlignment="Left" Margin="251,10,0,0" VerticalAlignment="Top" Width="248" Height="36" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Enter Amount" HorizontalAlignment="Left" Margin="24,140,0,0" VerticalAlignment="Top" Width="159" FontWeight="Bold" FontSize="16" Height="42"/>
+        <Button Content="Create Transaction ID" HorizontalAlignment="Left" Margin="238,60,0,0" VerticalAlignment="Top" Width="239" Height="39" FontWeight="Bold" FontSize="16" Background="#FFF3E62E"  Click="ProceedTransaction_Button_Click"/>
+        <Label Content="Enter Sender Account ID" HorizontalAlignment="Left" Margin="24,202,0,0" VerticalAlignment="Top" Height="35" Width="197" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Enetr Resiver Account ID" HorizontalAlignment="Left" Margin="24,266,0,0" VerticalAlignment="Top" Width="197" FontWeight="Bold" FontSize="16" Height="41"/>
+        <TextBox  x:Name="amount" HorizontalAlignment="Left" Height="42" Margin="238,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="239" FontWeight="Bold" FontSize="16"/>
+        <TextBox  x:Name="accountIDsender" HorizontalAlignment="Left" Height="35" Margin="238,202,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="239" FontWeight="Bold" FontSize="16"/>
+        <TextBox  x:Name="accountIDreciver" HorizontalAlignment="Left" Height="41" Margin="238,266,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="239" FontWeight="Bold" FontSize="18"/>
+        <Label Content="Transaction ID" HorizontalAlignment="Left" Margin="24,60,0,0" VerticalAlignment="Top" Height="39" Width="159" FontWeight="Bold" FontSize="18"/>
+        <TextBox  x:Name="transactionID" HorizontalAlignment="Left" Height="39" Margin="523,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="237" FontSize="16" FontWeight="Bold"/>
+        <Button Content="Confirm Transaction" HorizontalAlignment="Left" Margin="238,358,0,0" VerticalAlignment="Top" Width="239" Height="35" FontWeight="Bold" FontSize="16" Click="CreateTransactionButton_Click"/>
+
+    </Grid>
+</Page>

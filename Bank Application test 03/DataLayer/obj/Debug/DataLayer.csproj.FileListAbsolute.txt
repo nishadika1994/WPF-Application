@@ -1,0 +1,20 @@
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\bin\Debug\DataLayer.exe.config
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\bin\Debug\DataLayer.exe
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\obj\Debug\DataLayer.exe
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Bank Application test 03\DataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\bin\Debug\DataLayer.exe.config
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\bin\Debug\DataLayer.exe
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\obj\Debug\DataLayer.exe
+C:\Users\user\Desktop\DC Assignemet 2020\Bank Application test 03\DataLayer\obj\Debug\DataLayer.pdb
